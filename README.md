@@ -1,2 +1,4 @@
 # JS-tasks
-Tasks with JS
+Tasks with JS<br>
+* ```ctrl + shift + i``` <br>
+* Tap ```console```
