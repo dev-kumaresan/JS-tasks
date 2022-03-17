@@ -4,3 +4,4 @@ Tasks with JS<br>
 * Run ```index.html```
 * ```ctrl + shift + i``` <br>
 * Tap ```console``` <br>
+....
